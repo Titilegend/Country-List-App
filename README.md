@@ -1,4 +1,4 @@
-# Country-List-App: An app that Displays a list of Countries and information about them
+# Country-List-App: An app that displays a list of Countries and information about them
 Project Title : Country List App
 
 Software used: Android Studio
